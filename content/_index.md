@@ -12,7 +12,7 @@ chapter: false
 
 &emsp; **Phone Number:** 0935457152
 
-&emsp; **Email:** nguyen.fridayed@gmail.com
+&emsp; **Email:** jamesnguyen.ed@gmail.com
 
 &emsp; **University:**  FPT University
 
