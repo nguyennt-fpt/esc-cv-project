@@ -12,7 +12,7 @@ chapter: false
 
 &emsp; **Số điện thoại:** 0935457152
 
-&emsp; **Email:** nguyen.fridayed@gmail.com
+&emsp; **Email:** jamesnguyen.ed@gmail.com
 
 &emsp; **Trường đại học:**  FPT University
 
